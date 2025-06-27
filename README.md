@@ -1,5 +1,4 @@
-# You Only Look Once (YOLO) Based Machine Learning Algorithm 
-# for Real-Time Detection of Loop-Mediated Isothermal Amplification (LAMP) Diagnostics
+# You Only Look Once (YOLO) Based Machine Learning Algorithm  for Real-Time Detection of Loop-Mediated Isothermal Amplification (LAMP) Diagnostics
 
 This repository contains the code, trained model, and datasets for classifying LAMP (Loop-mediated Isothermal Amplification) images using YOLOv8. The project focuses on automated detection and classification of LAMP assay results.
 
