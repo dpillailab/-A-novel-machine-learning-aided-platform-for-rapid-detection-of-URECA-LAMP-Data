@@ -1,14 +1,17 @@
-# -A-novel-machine-learning-aided-platform-for-rapid-detection-of-URECA-LAMP-Data
-# LAMP Image Classification using YOLOv8
+# You Only Look Once (YOLO) Based Machine Learning Algorithm 
+# for Real-Time Detection of Loop-Mediated Isothermal Amplification (LAMP) Diagnostics
 
 This repository contains the code, trained model, and datasets for classifying LAMP (Loop-mediated Isothermal Amplification) images using YOLOv8. The project focuses on automated detection and classification of LAMP assay results.
 
 ## Contents
 
-- `yolo_script.py`: Python script for training YOLOv8 models and running predictions on LAMP images
+- `train.py`: Python script for training YOLOv8 models and running predictions on LAMP images
 - `best.pt`: Pre-trained YOLOv8 model for LAMP image classification
+- 'training.py': is the training python code
+- 'testing.py': is the testing code for making inference on unseen LAMP images
 - `data/`: 
   - `train/`: Raw training LAMP images
+  - 'validation/': Raw validation LAMP images
   - `test/`: Test sample LAMP images
 - `data.yaml`: Dataset configuration file for YOLOv8
 
