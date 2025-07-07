@@ -1,7 +1,7 @@
 
 ## Image Dataset
 The full image dataset (353 images, 664 MB) is stored externally due to size constraints.
-Access the images here: [[https://uofc-my.sharepoint.com/:f:/g/personal/biniyamkahsay_mezgeb_ucalgary_ca/EvIoFxv3ax5MlwfrVxc7BCQBUH93eAmfBQeKVuffIA32oQ?e=ez8Q1V](https://uofc-my.sharepoint.com/:f:/g/personal/biniyamkahsay_mezgeb_ucalgary_ca/Eu1Q8Jvfv31Iu5_xcW-H1Q4BulGLO-RJFrWdV07yFeW6oQ?e=dVs0og)]
+Access the images here: [https://uofc-my.sharepoint.com/:f:/g/personal/biniyamkahsay_mezgeb_ucalgary_ca/Eu1Q8Jvfv31Iu5_xcW-H1Q4BulGLO-RJFrWdV07yFeW6oQ?e=kaeLdH ]
 
 To use these images:
 1. Download the entire folder from OneDrive.
